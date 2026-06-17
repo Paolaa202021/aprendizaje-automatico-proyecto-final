@@ -92,3 +92,11 @@ Estos métodos permitirán justificar la selección del valor de k más adecuado
 El proyecto utilizará el dataset **siniestros-2024.csv**, que contiene información sobre accidentes ocurridos en autopistas urbanas durante el año 2024.
 
 Las principales variables analizadas serán: Fecha, Hora, Autopista, Banda y/o Ramal, Pk, Condiciones Meteorológicas, Superficie De La Vía, Lesionados, Fallecidos, Tipo De Siniestro, Moto, Liviano, Bus, Camión.
+
+### Links de presentaciones
+
+Presentación del proyecto en video: https://drive.google.com/file/d/1_HTM_VT8xUj7lUrfqxRtzx4xtAoFNnNO/view?usp=sharing
+
+Link Jupyter Notebook (código): https://colab.research.google.com/drive/1GqXUXI_N7HKy0D94UuaQJ5Kt3XC-btHx?usp=sharing
+
+Presentación del proyecto en PowerPoint: https://docs.google.com/presentation/d/18ChYaIVB6e53XMO9DWVB7Qum2m6foEOc/edit?usp=sharing&ouid=117406770979963466684&rtpof=true&sd=true
