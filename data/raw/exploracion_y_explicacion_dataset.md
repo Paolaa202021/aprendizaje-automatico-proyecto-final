@@ -271,15 +271,6 @@ Los centroides permiten observar la ubicación promedio de cada grupo y ayudan a
 
 ![Tamaño de los clusters](images/14-tamano-clusters.png)
 
-```
-Cluster
-1    330
-0    316
-2    143
-3     55
-Name: count, dtype: int64
-```
-
 Los clusters 0 y 1 concentran la mayor parte de los siniestros.
 
 El cluster 2 representa un grupo más específico de eventos.
